@@ -1,6 +1,7 @@
 {
   "name": "dynamodb-data-mapper-js",
   "private": true,
+  "version": "0.7.4",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "docs": "typedoc src && lerna run docs",
